@@ -8,5 +8,5 @@ Some Python codes I wrote to analyze MITgcm outputs and graph theory stuff.
 
 - [Download data from server](https://github.com/costaandrea/some_python_codes/blob/master/OFESdown_temp.py)
 
-- Nice pie chart for literature review
+- Nice pie chart for graph theory literature review
 ![](https://github.com/costaandrea/some_python_codes/blob/master/pie_ELE1.png)
