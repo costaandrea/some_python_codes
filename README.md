@@ -4,9 +4,9 @@ Some Python codes I wrote to analyze MITgcm outputs and graph theory stuff.
 - Calculate vertical modes
 ![](https://github.com/costaandrea/some_python_codes/blob/master/analytical_case1.png)
 
-- Test NUMBA
+- [Test NUMBA](https://github.com/costaandrea/some_python_codes/blob/master/NUMBA_testing.ipynb)
 
-- Download data from server
+- [Download data from server](https://github.com/costaandrea/some_python_codes/blob/master/OFESdown_temp.py)
 
 - Nice pie chart for literature review
 ![](https://github.com/costaandrea/some_python_codes/blob/master/pie_ELE1.png)
